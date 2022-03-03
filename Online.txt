@@ -1,3 +1,8 @@
 Das kommt vom Server
+<<<<<<< HEAD
  richtig
 Iberprofaxe
+=======
+
+Und hier eine lokale WEMA Änderung
+>>>>>>> 71e656b249c2dd1a19eb84b808c508e55cb3a360

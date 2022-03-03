@@ -1,8 +1,13 @@
 Das ist meine originaler Inhalt.
-<<<<<<< HEAD
+
 Das ist mein  originaler Inhalt.
-=======
+
 
 Hier kommt eine Änderung
 Online Change
->>>>>>> refs/remotes/origin/main
+
+Jetzt nich mehr
+
+
+Das ist die offline Änderung
+

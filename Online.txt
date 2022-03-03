@@ -1,2 +1,7 @@
 Das kommt vom Server
+<<<<<<< HEAD
 Das kommt vom michi
+=======
+
+Und hier eine lokale WEMA Änderung
+>>>>>>> refs/remotes/origin/main

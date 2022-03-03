@@ -11,3 +11,17 @@ Jetzt nich mehr
 
 Das ist die offline Änderung
 
+<<<<<<< HEAD
+=======
+Online Change
+
+
+3.3.22 WEMA lokaler change
+
+Iberprofaxe
+
+3.3. WEMA lokaler change
+3.3. WEMA lokaler change 2!
+
+SERVER ÄNDERUNG
+>>>>>>> refs/remotes/origin/main
